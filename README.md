@@ -1,4 +1,4 @@
 Proyecto Elaborado por:
-´´´bash
-ROGER ARMANDO IBARRA CHAVARRIA
-´´´
+
+- ROGER ARMANDO IBARRA CHAVARRIA
+
